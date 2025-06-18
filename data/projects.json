@@ -5,7 +5,7 @@
         "partner": "Ruang Industri Indonesia",
         "role": "Engineer",
         "description": "A prototype of an automatic storage and retrieval system that can work efficiently and quickly",
-        "image": "images/magang_projek.png",
+        "image": "images/magang_projek.jpg",
         "link": "-"
     },
     {
@@ -13,7 +13,7 @@
         "year": "2024",
         "role": "Engineer",
         "description": "A device that can detect noise with output in the form of LCD, and can monitor and control via an application in the form of a telegram.",
-        "image": "images/project2.png",
+        "image": "images/projek_PE.jpg",
         "link": "-"
     },
 	{
@@ -21,7 +21,7 @@
         "year": "2025",
         "role": "Engineer",
         "description": "A system that can control the water level in accordance with the desired set point based on pid control that has been carried out.",
-        "image": "images/PID_projek.png",
+        "image": "images/PID_projek.jpg",
         "link": "-"
 	}
 ]
