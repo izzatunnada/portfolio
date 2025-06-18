@@ -4,21 +4,23 @@
         "year": "2024",
         "partner": "Ruang Industri Indonesia",
         "role": "Engineer",
-        "description": "A prototype of an automatic storage and retrieval system that can work efficiently and quickly",
+        "description": "A prototype of an automatic storage and retrieval system that can work efficiently and quickly.",
         "image": "images/magang_projek.jpg",
         "link": "-"
     },
     {
         "title": "Alat Pendeteksi Kebisingan Pada Perpustakaan Berbasis Internet Of Things",
         "year": "2024",
+	"partner": "-",
         "role": "Engineer",
         "description": "A device that can detect noise with output in the form of LCD, and can monitor and control via an application in the form of a telegram.",
         "image": "images/projek_PE.jpg",
         "link": "-"
     },
 	{
-        "title": "Kendali Tinggi Air Tangki Menggunakan PID Diskrit dan Sensor Ultrasonik.",
+        "title": "Kendali Tinggi Air Tangki Menggunakan PID Diskrit dan Sensor Ultrasonik",
         "year": "2025",
+	"partner": "-",
         "role": "Engineer",
         "description": "A system that can control the water level in accordance with the desired set point based on pid control that has been carried out.",
         "image": "images/PID_projek.jpg",
