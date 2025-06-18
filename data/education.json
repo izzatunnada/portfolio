@@ -1,14 +1,14 @@
 [
     {
         "school": "Senior High School 1 Lasem",
-		"logo": "images/ntust-logo.png",
+		"logo": "images/sma-logo.png",
         "major": "Mathematics and Natural Sciences stream",
         "year": "2019 - 2022",
         "description": "-"
     },
 	{
         "university": "Politechnic State of Semarang",
-		"logo": "images/ntust-logo.png",
+		"logo": "images/polines-logo.png",
         "major": "Diploma in Electronics Engineering",
         "year": "2022 - 2025",
         "description": "-"
