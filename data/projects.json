@@ -1,31 +1,27 @@
 [
     {
-        "title": "FPGA-based System for Continuous Vital Signs Monitoring",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project1.png",
-        "link": "https://example.com/solar-water"
+        "title": "Prototipe Automated Storage and Retrieval System",
+        "year": "2024",
+        "partner": "Ruang Industri Indonesia",
+        "role": "Engineer",
+        "description": "A prototype of an automatic storage and retrieval system that can work efficiently and quickly",
+        "image": "images/magang_projek.png",
+        "link": "-"
     },
     {
-        "title": "SoC-based System for Non Contact Vital Signs Measurement",
-        "year": "2021",
-        "partner": "Tech Manufacturing Inc.",
-        "role": "Project Lead",
-        "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
+        "title": "Alat Pendeteksi Kebisingan Pada Perpustakaan Berbasis Internet Of Things",
+        "year": "2024",
+        "role": "Engineer",
+        "description": "A device that can detect noise with output in the form of LCD, and can monitor and control via an application in the form of a telegram.",
         "image": "images/project2.png",
-        "link": "https://example.com/assembly-optimization"
+        "link": "-"
     },
 	{
-        "title": "Penelitian Tesis Magister: Activity Recognition",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project9.png",
+        "title": "Kendali Tinggi Air Tangki Menggunakan PID Diskrit dan Sensor Ultrasonik.",
+        "year": "2025",
+        "role": "Engineer",
+        "description": "A system that can control the water level in accordance with the desired set point based on pid control that has been carried out.",
+        "image": "images/PID_projek.png",
         "link": "-"
 	}
 ]
