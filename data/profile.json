@@ -1,6 +1,6 @@
 {
     "name": "Desiana Izzatunnada",
-    "description": "-",
+    "description": "Fresh graduate in Electronics Engineering from Politeknik Negeri Semarang with a strong interest in automation, embedded systems, and control engineering. Experienced in PLC programming (Haiwell), HMI design, and Arduino-based projects. Passionate about building practical and efficient engineering solutions.",
     "profileImage": "images/profile.png",
     "email": "desianaizzatunnada@gmail.com",
     "phone": "+62 (895) 35944-7823",
@@ -14,8 +14,8 @@
             "url": "https://github.com/izzatunnada"
         },
         {
-            "platform": "Twitter",
-            "url": "https://twitter.com/DIzzatunnada"
+            "platform": "Instagram",
+            "url": "https://instagram.com/desianai_"
         }
     ],
     "cv": {
@@ -24,8 +24,9 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Programming PLC", "level": 80},
+        {"name": "PLC Programming", "level": 80},
         {"name": "Programming ArduinoIDE", "level": 70},
-	{"name": "Web Programming", "level": 85}
+	{"name": "Web Programming", "level": 80},
+	{"name": "Electrical & Electronics Basics", "level": 85} 
     ]
 }
